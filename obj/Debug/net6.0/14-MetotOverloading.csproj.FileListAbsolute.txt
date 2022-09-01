@@ -1,0 +1,15 @@
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\14-MetotOverloading\bin\Debug\net6.0\14-MetotOverloading.exe
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\14-MetotOverloading\bin\Debug\net6.0\14-MetotOverloading.deps.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\14-MetotOverloading\bin\Debug\net6.0\14-MetotOverloading.runtimeconfig.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\14-MetotOverloading\bin\Debug\net6.0\14-MetotOverloading.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\14-MetotOverloading\bin\Debug\net6.0\14-MetotOverloading.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\14-MetotOverloading\obj\Debug\net6.0\14-MetotOverloading.csproj.AssemblyReference.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\14-MetotOverloading\obj\Debug\net6.0\14-MetotOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\14-MetotOverloading\obj\Debug\net6.0\14-MetotOverloading.AssemblyInfoInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\14-MetotOverloading\obj\Debug\net6.0\14-MetotOverloading.AssemblyInfo.cs
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\14-MetotOverloading\obj\Debug\net6.0\14-MetotOverloading.csproj.CoreCompileInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\14-MetotOverloading\obj\Debug\net6.0\14-MetotOverloading.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\14-MetotOverloading\obj\Debug\net6.0\refint\14-MetotOverloading.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\14-MetotOverloading\obj\Debug\net6.0\14-MetotOverloading.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\14-MetotOverloading\obj\Debug\net6.0\14-MetotOverloading.genruntimeconfig.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\14-MetotOverloading\obj\Debug\net6.0\ref\14-MetotOverloading.dll
